@@ -1,0 +1,14 @@
+name: KoolSource Forum Bridge
+author: KoolSource
+authors: [John]
+main: me.koolsource.Forum_Bridge.Forum_Bridge
+website: http://koolsource.com
+version: 1.0.0
+database: false
+description: >
+             A forum bridge plugin for Bukkit.
+commands:
+  forumbridge:
+    description: Forum Bridge's main menu
+    usage: /<command>
+    aliases: [fb]
